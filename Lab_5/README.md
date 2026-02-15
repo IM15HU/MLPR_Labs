@@ -9,19 +9,14 @@
 
 ### Results
 
-<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/573f5c54-696c-4b57-ac59-835e278752df" />
-
-### Clustering with means
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/fca9dbc8-fcc4-4f4f-b003-d54397a9c796" />
 
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/089db5c1-eae0-428c-9059-18f4d32675e9" />
 
-### With template
-
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/21fd20c4-61f8-46eb-bab0-832fc1f3df8b" />
 
-### Assigning a cluster to the given photo of Shashi Tharoor.
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/9d48c33c-e663-4373-aed7-52cef51132a4" />
 
-<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/8da76b4f-6aee-4b28-ada5-9f1cef8f38b2" />
 
 
 
