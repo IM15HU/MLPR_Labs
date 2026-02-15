@@ -1,4 +1,4 @@
 # MLPR_Labs
-MLPR lab 2026.
-Plaksha University
-By - Suyash
+\n MLPR lab 2026.
+\n Plaksha University
+\n By - Suyash
